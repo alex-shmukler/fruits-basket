@@ -11,10 +11,15 @@ Rules:
   The game ends when a player identifies the weight correctly or when 100 attempts were completed.    
 
   The game has 5 types of players:
+    
     1) Random player: guesses a random number between 40 and 140.
+    
     2) Memory player: guesses a random number between 40 and 140 but does not try the same number more than once.
+    
     3) Thorough player: tries all numbers by order – 41,42,43...
+    
     4) Cheater player: guesses a random number between 40 and 140 – but does not try any of the numbers that other players had already tried.
+    
     5) Thorough Cheater player: tries all numbers by order – 41,42,43... but skips numbers that were already been tried before by any of the players.
 
 If a player guessed a number incorrectly – he will have to wait the absolute delta (between the real weight and his guess) in milliseconds.
