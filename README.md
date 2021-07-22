@@ -1,6 +1,5 @@
 # fruits-basket
-Fruits basket game (interview question)
-
+### Fruits basket game (interview question)
 
 The goal of the game is to guess the weight of a fruit basket.
 
