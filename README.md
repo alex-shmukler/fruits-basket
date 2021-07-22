@@ -24,11 +24,14 @@ Rules:
 
 If a player guessed a number incorrectly – he will have to wait the absolute delta (between the real weight and his guess) in milliseconds.
 
-For an example: If the actual weight of the basket is 100 – and a player guessed 70 – the player will wait (sleep) for 30 milliseconds.
-                If his guess was 130 – he will also sleep for 30 milliseconds.
+For an example: 
+                
+               If the actual weight of the basket is 100 – and a player guessed 70 – the player will wait (sleep) for 30 milliseconds.
+               
+               If his guess was 130 – he will also sleep for 30 milliseconds.
 
 Inputs:
-  
+
   1) The number of participating players – 2 through 8
   
   2) For each player – his name and his type.
