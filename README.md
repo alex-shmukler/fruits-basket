@@ -28,11 +28,15 @@ For an example: If the actual weight of the basket is 100 – and a player guess
                 If his guess was 130 – he will also sleep for 30 milliseconds.
 
 Inputs:
+  
   1) The number of participating players – 2 through 8
+  
   2) For each player – his name and his type.
 
 Outputs:
+
   1) The real weight of the basket.
+
   2) At the end of the game:
     
     a) If there was a winner – his name and total amount of attempts in the game.
