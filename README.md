@@ -34,8 +34,11 @@ Inputs:
 Outputs:
   1) The real weight of the basket.
   2) At the end of the game:
+    
     a) If there was a winner – his name and total amount of attempts in the game.
+    
     b) In case there was no winner – the name of the player who was the closest (in absolute value) and his guess.
        If there were more than one – the one that was the first. Also, his guess should be printed as well.
+       
 Bonus:
   Finish the game not only if there were 100 attempts but also if 1500 milliseconds passed.
