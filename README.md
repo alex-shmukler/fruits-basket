@@ -3,9 +3,13 @@ Fruits basket game (interview question)
 
 
 The goal of the game is to guess the weight of a fruit basket.
+
 The weight of the basket will be between 40 – 140 kilos. (Whole numbers)
+
 Rules:
-  The game ends when a player identifies the weight correctly or when 100 attempts were completed. 
+
+  The game ends when a player identifies the weight correctly or when 100 attempts were completed.    
+
   The game has 5 types of players:
     1) Random player: guesses a random number between 40 and 140.
     2) Memory player: guesses a random number between 40 and 140 but does not try the same number more than once.
